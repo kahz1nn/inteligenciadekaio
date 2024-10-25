@@ -6,42 +6,42 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Quais são as principais causas das enchentes urbanas?",
+        enunciado: "okaio é um cara bacana?",
         alternativas: [
             {
-                texto:"A impermeabilização do solo devido à construção de estradas e prédios impede que a água da chuva seja absorvida, levando ao acúmulo de água nas ruas e a enchentes.",
+                texto:"alem de bacana é bunito",
                 afirmacao:""
             },
             {
-                texto:"A falta de manutenção e a obstrução das redes de drenagem urbana podem causar o transbordamento de córregos e bueiros, resultando em enchentes nas áreas urbanas.",
+                texto:"tem os seus defeitos mas é um cara nota 10",
                 afirmacao:""
             }
            
         ]
     },
     {
-        enunciado: "Como as enchentes afetam a infraestrutura de uma cidade?",
+        enunciado: "vcs acha que a terra é plana?",
         alternativas: [
             {
-                texto:"Enchentes podem danificar estradas, pontes e edifícios, resultando em altos custos de reparo e interrupções significativas nos serviços e transporte.",
+                texto:"não que ridiculo",
                 afirmacao:""
             },
             {
-                texto: "Além dos danos físicos, enchentes podem comprometer o fornecimento de água e energia, causar problemas em sistemas de esgoto e gerar riscos à saúde pública devido ao contágio de doenças.",
+                texto: "sim acredito que a terra é plana e que navega num vacuo em cima de uma especie de tartaruga gigante que faz o sistema solar rodr em volta de ti",
                 afirmacao:""
             }
            
         ]
     },
     {
-        enunciado: "Quais são algumas medidas eficazes para prevenir enchentes?",
+        enunciado: "se vc fosse atacado por um tigre oque vc faria?",
         alternativas: [
             {
-                texto:"A construção de sistemas de drenagem eficientes e a implementação de soluções baseadas na natureza, como parques e áreas verdes, podem ajudar a reduzir o risco de enchentes.",
+                texto:" falaria pare esta doendo",
                 afirmacao:""
             },
             {
-                texto:"A educação pública sobre práticas de conservação e o controle do uso do solo para evitar a impermeabilização excessiva são estratégias importantes para a prevenção de enchentes.",
+                texto:"calcularia uma raiz quadrada para achar o valor x",
                 afirmacao:""
             }
             
