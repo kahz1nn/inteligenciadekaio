@@ -48,6 +48,36 @@ const perguntas = [
             
         ]
     },
+    {
+        enunciado: "em uma partida de uno alguem tacasse um +4 qual seria sua reação?",
+        alternativas: [
+            {
+                texto:"daria um tiro nele",
+                afirmacao:""
+            },
+            {
+                texto:"processaria ele por agreção",
+                afirmacao:""
+            }
+            
+            
+        ]
+    },
+    {
+        enunciado: "que vc me diria sobre um policial que se olha no espelho?",
+        alternativas: [
+            {
+                texto:"policial civil",
+                afirmacao:""
+            },
+            {
+                texto:"Narcisismo",
+                afirmacao:""
+            }
+            
+            
+        ]
+    },
 ];
 
 let atual = 0;
